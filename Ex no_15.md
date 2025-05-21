@@ -5,13 +5,18 @@ To write a C program that reads a one-dimensional array of integers and replaces
 
 ## Algorithm
 1.Read an integer (n) from the user.
+
 2.Declare an array of size n and take n integer inputs.
+
 3.Iterate through the array using a loop.
+
 4.Check if each number is odd; if so, print the number.
+
 5.Print "E" if the number is even. 
 
 ## Program:
 ```
+
 /*
 Program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
 Developed by: 
