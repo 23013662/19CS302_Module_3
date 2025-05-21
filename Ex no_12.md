@@ -5,13 +5,19 @@ To write a C program to check whether the given number is prime or not using fun
 
 ## Algorithm
 1.Input the number → Read an integer num from the user.
+
 2.Initialize flag → Set a flag variable flag = 1, assuming num is prime.
+
 3.Check base case → If num <= 1, set flag = 0 since numbers ≤1 are not prime.
+
 4.Loop through divisors → Iterate i from 2 to sqrt(num):
+
 5.If num is divisible by i, set flag = 0 and break.
+
 6.Output result → If flag == 1, print "num is a prime number", otherwise print "num is not a prime number".
 ## Program:
 ```
+
 /*
 C program to check whether the given number is prime or not using function without return type and with arguments.
 Developed by: 
