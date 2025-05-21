@@ -15,9 +15,10 @@ To write a C program to check whether the given number is prime or not using fun
 5.If num is divisible by i, set flag = 0 and break.
 
 6.Output result → If flag == 1, print "num is a prime number", otherwise print "num is not a prime number".
+
+
 ## Program:
 ```
-
 /*
 C program to check whether the given number is prime or not using function without return type and with arguments.
 Developed by: 
