@@ -45,6 +45,7 @@ void check_prime(int num) {
         printf("%d is not a prime number.\n", num);
 }
 
+
 int main() {
     int n;
     printf("Enter a number: ");
