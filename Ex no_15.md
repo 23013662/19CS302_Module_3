@@ -16,7 +16,6 @@ To write a C program that reads a one-dimensional array of integers and replaces
 
 ## Program:
 ```
-
 /*
 Program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
 Developed by: 
